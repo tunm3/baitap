@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab1/AnonTypes/bin/Debug/AnonTypes.exe
+/Users/mac/RiderProjects/Lab1/AnonTypes/bin/Debug/AnonTypes.pdb
+/Users/mac/RiderProjects/Lab1/AnonTypes/obj/Debug/AnonTypes.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab1/AnonTypes/obj/Debug/AnonTypes.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab1/AnonTypes/obj/Debug/AnonTypes.exe
+/Users/mac/RiderProjects/Lab1/AnonTypes/obj/Debug/AnonTypes.pdb

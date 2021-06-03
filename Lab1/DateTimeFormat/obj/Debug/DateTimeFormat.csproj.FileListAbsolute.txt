@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab1/DateTimeFormat/bin/Debug/DateTimeFormat.exe
+/Users/mac/RiderProjects/Lab1/DateTimeFormat/bin/Debug/DateTimeFormat.pdb
+/Users/mac/RiderProjects/Lab1/DateTimeFormat/obj/Debug/DateTimeFormat.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab1/DateTimeFormat/obj/Debug/DateTimeFormat.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab1/DateTimeFormat/obj/Debug/DateTimeFormat.exe
+/Users/mac/RiderProjects/Lab1/DateTimeFormat/obj/Debug/DateTimeFormat.pdb

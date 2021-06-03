@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab1/Firts_prg/bin/Debug/Firts_prg.exe
+/Users/mac/RiderProjects/Lab1/Firts_prg/bin/Debug/Firts_prg.pdb
+/Users/mac/RiderProjects/Lab1/Firts_prg/obj/Debug/Firts_prg.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab1/Firts_prg/obj/Debug/Firts_prg.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab1/Firts_prg/obj/Debug/Firts_prg.exe
+/Users/mac/RiderProjects/Lab1/Firts_prg/obj/Debug/Firts_prg.pdb

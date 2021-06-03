@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab1/ImplicitilyTypedLocal/bin/Debug/ImplicitilyTypedLocal.exe
+/Users/mac/RiderProjects/Lab1/ImplicitilyTypedLocal/bin/Debug/ImplicitilyTypedLocal.pdb
+/Users/mac/RiderProjects/Lab1/ImplicitilyTypedLocal/obj/Debug/ImplicitilyTypedLocal.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab1/ImplicitilyTypedLocal/obj/Debug/ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab1/ImplicitilyTypedLocal/obj/Debug/ImplicitilyTypedLocal.exe
+/Users/mac/RiderProjects/Lab1/ImplicitilyTypedLocal/obj/Debug/ImplicitilyTypedLocal.pdb

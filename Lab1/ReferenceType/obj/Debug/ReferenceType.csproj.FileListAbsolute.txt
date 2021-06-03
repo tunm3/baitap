@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab1/ReferenceType/bin/Debug/ReferenceType.exe
+/Users/mac/RiderProjects/Lab1/ReferenceType/bin/Debug/ReferenceType.pdb
+/Users/mac/RiderProjects/Lab1/ReferenceType/obj/Debug/ReferenceType.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab1/ReferenceType/obj/Debug/ReferenceType.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab1/ReferenceType/obj/Debug/ReferenceType.exe
+/Users/mac/RiderProjects/Lab1/ReferenceType/obj/Debug/ReferenceType.pdb
